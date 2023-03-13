@@ -86,6 +86,6 @@ public class Main {
         System.out.println("Всего работников в компании — " + human + " человек");
         var humanAdd = human + 94;
         var timeWorknew = humanAdd * timeHuman;
-        System.out.println("Если в компании работает " + humanAdd + " человека, то всего " + timeWorknew + " часов работы может быть поделено между сотрудниками");
+        System.out.println("Если в компании работает " + humanAdd + " человек, то всего " + timeWorknew + " часов работы может быть поделено между сотрудниками");
     }
 }
